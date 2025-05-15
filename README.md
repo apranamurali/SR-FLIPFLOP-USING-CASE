@@ -1,6 +1,5 @@
 SR-FLIPFLOP-USING-CASE
-NAME: APARNA.M
-REG NO:212223220008
+
 AIM:
 
 To implement SR flipflop using verilog and validating their functionality using their functional tables
